@@ -1,0 +1,48 @@
+Welcome to Compare! Please enter your first number:  
+The user entered: 28 
+Please enter your second number:  
+The user entered: 44 
+Please enter your third number:  
+The user entered: 66 
+Please enter your fourth number:  
+The user entered: 82 
+
+Out of the given numbers: 28, 44, 66, 82
+The largest number is 82, and the smallest number is 28.
+
+Welcome to Compare! Please enter your first number:  
+The user entered: 8 
+Please enter your second number:  
+The user entered: 14 
+Please enter your third number:  
+The user entered: 22 
+Please enter your fourth number:  
+The user entered: 6 
+
+Out of the given numbers: 8, 14, 22, 6
+The largest number is 22, and the smallest number is 6.
+
+Welcome to Compare! Please enter your first number:  
+The user entered: 21 
+Please enter your second number:  
+The user entered: 38 
+Please enter your third number:  
+The user entered: 12 
+Please enter your fourth number:  
+The user entered: 16 
+
+Out of the given numbers: 21, 38, 12, 16
+The largest number is 38, and the smallest number is 12.
+
+Welcome to Compare! Please enter your first number:  
+The user entered: 98 
+Please enter your second number:  
+The user entered: 22 
+Please enter your third number:  
+The user entered: 45 
+Please enter your fourth number:  
+The user entered: 63 
+
+Out of the given numbers: 98, 22, 45, 63
+The largest number is 98, and the smallest number is 22.
+
